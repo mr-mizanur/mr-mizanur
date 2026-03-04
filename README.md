@@ -1,14 +1,52 @@
 <h1 align="center">Hi, I'm Mizanur Rahman 👋</h1>
+
 <p align="center">
-Front-End Developer | I turn ideas into responsive & modern web interfaces.<br>
-Currently leveling up in <strong>Advanced JavaScript</strong> & <strong>Modern Frontend Frameworks</strong>.
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+Enthusiast;I+Build+Modern+Responsive+Web+Apps" />
+</p>
+
+<p align="center">
+Front-End Developer passionate about building clean, responsive and user-friendly web interfaces.  
+Currently focused on mastering <strong>React</strong>, <strong>Next.js</strong> & modern frontend architecture.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Focused on performance & responsive design  
+- 🎯 Building real-world interactive web applications  
+- 📚 Currently exploring TypeScript & advanced React patterns  
+- 🤝 Open to collaboration on frontend projects  
+
+---
+
+## 🌟 Featured Projects
+
+### 🌙 Ramadan Cutout Post Generator
+Interactive Ramadan-themed post generator with clean UI & Firebase deployment.
+
+<p>
+<a href="https://ramadan-cutoutpost.web.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Site-Visit-blue?style=for-the-badge&logo=google-chrome" />
+</a>
+</p>
+
+---
+
+### 🗳 Vote For Mohsin Campaign Website
+Responsive campaign landing page optimized for performance.
+
+<p>
+<a href="https://voteformohsin.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Site-Visit-green?style=for-the-badge&logo=google-chrome" />
+</a>
 </p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Frontend**
+### Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html" height="40" />
 <img src="https://skillicons.dev/icons?i=css" height="40" />
@@ -18,12 +56,12 @@ Currently leveling up in <strong>Advanced JavaScript</strong> & <strong>Modern F
 <img src="https://skillicons.dev/icons?i=react" height="40" />
 </p>
 
-### **Backend / Database**
+### Backend / Database
 <p align="center">
 <img src="https://skillicons.dev/icons?i=firebase" height="40" />
 </p>
 
-### **Tools & Version Control**
+### Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git" height="40" />
 <img src="https://skillicons.dev/icons?i=github" height="40" />
@@ -36,26 +74,9 @@ Currently leveling up in <strong>Advanced JavaScript</strong> & <strong>Modern F
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-mizanur&show_icons=true&theme=radical&count_private=true" />
-</p>
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-mizanur&theme=radical" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mizanur&hide=html&layout=compact&theme=radical" />
-</p>
-
----
-
-## 💻 Skill Progress
-
-| Skill       | Level |
-|------------|-------|
-| HTML       | ▓▓▓▓▓▓▓▓▓▓ 95% |
-| CSS        | ▓▓▓▓▓▓▓▓▓░ 90% |
-| JavaScript | ▓▓▓▓▓▓▓▓░░ 85% |
-| React      | ▓▓▓▓▓▓▓░░░ 70% |
-| Tailwind   | ▓▓▓▓▓▓▓▓▓░ 90% |
-| Firebase   | ▓▓▓▓▓▓▓▓░░ 80% |
 
 ---
 
@@ -78,18 +99,10 @@ Currently leveling up in <strong>Advanced JavaScript</strong> & <strong>Modern F
 
 ---
 
-### 💡 Fun Fact
-I enjoy **turning design ideas into code**, experimenting with new frontend tools, and **sharing tips with the dev community**.
-
----
-
-### ⚡ Goals
-- Master **React** and **Next.js**  
-- Explore **TypeScript** and **state management tools**  
-- Build more **interactive & dynamic web apps**
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-mizanur&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
