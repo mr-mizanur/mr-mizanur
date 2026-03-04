@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-Front-End Developer passionate about building clean, responsive and user-friendly web interfaces.  
-Currently focused on mastering <strong>React</strong>, <strong>Next.js</strong> & modern frontend architecture.
+Passionate Front-End Developer focused on building clean, responsive, and user-friendly web applications.  
+Currently exploring <strong>React</strong>, <strong>Next.js</strong>, and modern frontend architecture.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Focused on performance & responsive design  
-- 🎯 Building real-world interactive web applications  
-- 📚 Currently exploring TypeScript & advanced React patterns  
+- 💻 Passionate about performance & responsive design  
+- 🎯 Building real-world interactive web apps  
+- 📚 Learning TypeScript & advanced React patterns  
 - 🤝 Open to collaboration on frontend projects  
 
 ---
@@ -23,9 +23,9 @@ Currently focused on mastering <strong>React</strong>, <strong>Next.js</strong> 
 ## 🌟 Featured Projects
 
 ### 🌙 Ramadan Cutout Post Generator
-Interactive Ramadan-themed post generator with clean UI & Firebase deployment.
+Interactive Ramadan-themed post generator with a sleek UI & Firebase deployment.
 
-<p>
+<p align="center">
 <a href="https://ramadan-cutoutpost.web.app" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Site-Visit-blue?style=for-the-badge&logo=google-chrome" />
 </a>
@@ -34,9 +34,9 @@ Interactive Ramadan-themed post generator with clean UI & Firebase deployment.
 ---
 
 ### 🗳 Vote For Mohsin Campaign Website
-Responsive campaign landing page optimized for performance.
+Responsive campaign landing page optimized for speed and performance.
 
-<p>
+<p align="center">
 <a href="https://voteformohsin.web.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Site-Visit-green?style=for-the-badge&logo=google-chrome" />
 </a>
@@ -48,12 +48,7 @@ Responsive campaign landing page optimized for performance.
 
 ### Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html" height="40" />
-<img src="https://skillicons.dev/icons?i=css" height="40" />
-<img src="https://skillicons.dev/icons?i=js" height="40" />
-<img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-<img src="https://skillicons.dev/icons?i=react" height="40" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" height="40" />
 </p>
 
 ### Backend / Database
@@ -63,9 +58,7 @@ Responsive campaign landing page optimized for performance.
 
 ### Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git" height="40" />
-<img src="https://skillicons.dev/icons?i=github" height="40" />
-<img src="https://skillicons.dev/icons?i=vscode" height="40" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
 </p>
 
 ---
