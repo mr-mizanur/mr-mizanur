@@ -99,37 +99,36 @@ Currently exploring <b>React</b>, <b>Next.js</b>, and modern frontend architectu
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mr-mizanur&theme=radical&no-frame=true&margin-w=15"/>
-</p>
 
----
 
 ## 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mizdev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mizanur.codes@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/8801820100221" target="_blank">
-<img src="https://skillicons.dev/icons?i=whatsapp" height="40"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://mr-mizanur.web.app" target="_blank">
-<img src="https://skillicons.dev/icons?i=webflow" height="40"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </p>
 
 ---
+
+
+
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mr-mizanur&style=for-the-badge&color=blue"/>
@@ -143,4 +142,4 @@ Currently exploring <b>React</b>, <b>Next.js</b>, and modern frontend architectu
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
-</p>
+</p>.   kemonn 
