@@ -142,4 +142,4 @@ Currently exploring <b>React</b>, <b>Next.js</b>, and modern frontend architectu
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
-</p>.   kemonn 
+</p>.   
