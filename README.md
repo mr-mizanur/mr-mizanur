@@ -35,14 +35,13 @@ Currently exploring <b>React</b>, <b>Next.js</b>, and modern frontend architectu
 
 ## 🌟 Featured Projects
 
-### 🌙 Ramadan Cutout Post Generator
+### 🎙 VoiceRise – Voice Sharing Platform
 
 <p align="center">
-<a href="https://ramadan-cutoutpost.web.app" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Site-Visit-blue?style=for-the-badge&logo=google-chrome"/>
+<a href="https://voicerise.web.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Site-Visit-purple?style=for-the-badge&logo=google-chrome"/>
 </a>
 </p>
-
 ---
 
 ### 🗳 Vote For Mohsin Campaign Website
@@ -142,4 +141,4 @@ Currently exploring <b>React</b>, <b>Next.js</b>, and modern frontend architectu
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
-</p>.   
+</p>  
