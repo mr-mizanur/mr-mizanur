@@ -96,25 +96,22 @@ Exploring <b>React</b>, <b>Next.js</b>, and modern frontend architectures.
   <a href="https://www.linkedin.com/in/mizdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  &nbsp;
   <a href="mailto:mizanur.codes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
+  &nbsp;
   <a href="https://wa.me/8801820100221" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-
+  &nbsp;
   <a href="https://mr-mizanur.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=mr-mizanur&style=for-the-badge&color=blue"/>
 </p>
 
----
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
