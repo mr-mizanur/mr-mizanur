@@ -37,18 +37,6 @@ Frontend Developer • React Enthusiast • UI Lover
 
 # 🌟 Featured Projects
 
-### 🎙 VoiceRise – Voice Sharing Platform
-
-<p align="center">
-<a href="https://voicerise.web.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Site-Visit-purple?style=for-the-badge&logo=google-chrome"/>
-</a>
-</p>
-
-A modern platform where users can share voice content and interact with the community.
-
----
-
 ### 📰 VoiceRise News AI – AI Powered News Platform
 
 <p align="center">
@@ -58,6 +46,20 @@ A modern platform where users can share voice content and interact with the comm
 </p>
 
 An AI-powered news website that provides the latest technology and AI-related news in a clean and responsive interface.
+
+---
+
+
+
+### 🎙 VoiceRise – Voice Sharing Platform
+
+<p align="center">
+<a href="https://voicerise.web.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Site-Visit-purple?style=for-the-badge&logo=google-chrome"/>
+</a>
+</p>
+
+A modern platform where users can share voice content and interact with the community.
 
 ---
 
