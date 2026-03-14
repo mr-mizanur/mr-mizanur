@@ -45,7 +45,19 @@ Frontend Developer • React Enthusiast • UI Lover
 </a>
 </p>
 
-A modern platform where users can share voice content and engage with the community.
+A modern platform where users can share voice content and interact with the community.
+
+---
+
+### 📰 VoiceRise News AI – AI Powered News Platform
+
+<p align="center">
+<a href="https://voicerise-news-ai.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Site-Visit-blue?style=for-the-badge&logo=google-chrome"/>
+</a>
+</p>
+
+An AI-powered news website that provides the latest technology and AI-related news in a clean and responsive interface.
 
 ---
 
@@ -60,6 +72,7 @@ A modern platform where users can share voice content and engage with the commun
 A responsive campaign website designed for engagement and accessibility.
 
 ---
+
 
 # ⚡ Tech Stack
 
