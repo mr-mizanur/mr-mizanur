@@ -148,9 +148,6 @@ A responsive campaign website designed for engagement and accessibility.
 
 ---
 
-<p align="center">
-<i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
