@@ -6,10 +6,10 @@
 
 <h3 align="center">Frontend Developer | React Developer | Building Clean & Scalable UI</h3>
 
-<p align="center">
-Chunarughat,Habiganj,Sylhet, Bangladesh | 📧 mizanur.codes@gmail.com
-</p>
-
+<div align="center">
+  📍 <strong>Chunarughat, Habiganj, Sylhet Division, Bangladesh</strong><br><br>
+  📧 <a href="mailto:mizanur.codes@gmail.com"><strong>mizanur.codes@gmail.com</strong></a>
+</div>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Applications;Clean+UI+%7C+Responsive+Design;Always+Learning+New+Technologies"/>
 </p>
