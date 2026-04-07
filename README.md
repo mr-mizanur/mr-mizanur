@@ -60,12 +60,12 @@
 
 ### Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,daisyui,react-router,bootstrap&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap"/>
 </p>
 
 ### Backend / Database
 <p align="center">
-<img src="https://skillicons.dev/icons?i=firebase"/>
+  <img src="https://skillicons.dev/icons?i=firebase,python" />
 </p>
 
 ### Tools
