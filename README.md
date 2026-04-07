@@ -22,7 +22,7 @@
 
 - ⚛️ Specialized in **React & modern frontend ecosystem**  
 - 🚀 Focused on **performance, accessibility & scalable UI**  
-- 📚 Currently exploring **TypeScript & Next.js**  
+- 📚 Currently exploring **Python & Next.js**  
 - 🧠 Building **real-world projects and learning modern frontend architecture**  
 - 🤝 Open to **collaboration & real-world projects**
 
@@ -32,7 +32,7 @@
 
 - 🚀 Developing real-world **React projects**  
 - 🌐 Working on an **AI-powered news platform**  
-- ⚡ Learning **Next.js & advanced frontend patterns**  
+- ⚡ Learning **Python Next.js & advanced frontend patterns**  
 - 🛠 Improving **performance & UX of my apps**
 
 ---
