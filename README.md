@@ -7,7 +7,12 @@
 <h3 align="center">Frontend Developer | React Developer | Building Clean & Scalable UI</h3>
 
 <div align="center">
-  📍 <strong>Chunarughat, Habiganj, Sylhet Division, Bangladesh</strong><br><br>
+  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mr-mizanur&style=for-the-badge&color=blue"/>
+</p>
+
+
   📧 <a href="mailto:mizanur.codes@gmail.com"><strong>mizanur.codes@gmail.com</strong></a>
 </div>
 <p align="center">
@@ -123,9 +128,7 @@
 ---
 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mr-mizanur&style=for-the-badge&color=blue"/>
-</p>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
