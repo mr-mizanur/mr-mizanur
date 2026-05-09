@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Mizanur Rahman</h1>
 
-<h3 align="center">Frontend Developer | React Developer | Building Clean & Scalable UI</h3>
+<h3 align="center">Frontend Architect | MERN Stack Developer | Building Scalable Web Solutions</h3>
 
 <div align="center">
   
@@ -12,89 +12,79 @@
 <img src="https://komarev.com/ghpvc/?username=mr-mizanur&style=for-the-badge&color=blue"/>
 </p>
 
-
   📧 <a href="mailto:mizanur.codes@gmail.com"><strong>mizanur.codes@gmail.com</strong></a>
 </div>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Applications;Clean+UI+%7C+Responsive+Design;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Modern+Web+Applications;Clean+UI+%7C+Scalable+Architecture;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 I am a Frontend Developer passionate about building modern, scalable, and user-friendly web applications.
+💻 I am a **Frontend Architect and Web Developer** passionate about building modern, scalable, and high-performance web applications.
 
-- ⚛️ Specialized in **React & modern frontend ecosystem**  
-- 🚀 Focused on **performance, accessibility & scalable UI**  
-- 📚 Currently exploring **Python & Next.js**  
-- 🧠 Building **real-world projects and learning modern frontend architecture**  
-- 🤝 Open to **collaboration & real-world projects**
-
----
-
-## 🔭 Current Focus
-
-- 🚀 Developing real-world **React projects**  
-- 🌐 Working on an **AI-powered news platform**  
-- ⚡ Learning **Python Next.js & advanced frontend patterns**  
-- 🛠 Improving **performance & UX of my apps**
+- ⚛️ Specialized in **React, Next.js & the MERN Stack**  
+- 🚀 Focused on **clean code, performance optimization & scalable UI**  
+- 📚 Currently exploring **Advanced Backend Patterns & AI Integration**  
+- 🧠 Building **full-stack solutions with seamless UX**  
+- 🤝 Open to **collaboration on real-world impact projects**
 
 ---
 
 ## 🌟 Featured Projects
 
-### 📰 [VoiceRise News AI](https://voicerise-news-ai.vercel.app/)
-💡 News Card Generator Webapp – takes a news URL as input, fetches content and images via an API, and automatically detects the news type to generate a categorized news card. Clean, responsive UI for seamless browsing.
+### 🎓 [SkillSphere](https://skill-sphere-learn.vercel.app/)
+💡 A modern online learning platform designed for a seamless educational experience. Features include interactive course listings, secure authentication, and a clean, student-focused dashboard.
 
-⚙️ Tech Stack: HTML,Javascript, Tailwind, API.
+⚙️ **Tech Stack:** React, Tailwind CSS, MongoDB, Express, Node.js, Firebase.
 
-### 🎙 [VoiceRise – Voice Sharing Platform](https://voicerise.web.app/)
-💡 Newsroom studio platform that allows users to create professional news cards by uploading headlines, images, and sources. Features a clean, responsive UI for easy customization and downloading of news visuals. 
+### 📰 [Khoborti](https://khoborti.vercel.app/)
+💡 A dynamic, automated news platform designed for real-time updates. It features an intelligent system that automatically fetches and categorizes news content, delivering a seamless and futuristic reading experience.
 
-⚙️ Tech Stack:HTML, CSS, Javascript, Firebase 
+⚙️ **Tech Stack:** Next.js, Tailwind CSS, MongoDB, Express, Node.js.
 
-### 🗳 [Vote For Mohsin](https://voteformohsin.web.app/)
-💡 Campaign website that allows users to upload their image and create a custom Facebook profile picture for supporting the campaign. Features a clean, responsive UI for easy customization. 
+### 🐉 [Dragon News](https://dragon-news-tau-five.vercel.app/category/01)
+💡 A professional news portal featuring dynamic routing, category-based filtering, and real-time data fetching for a fast-paced media experience.
 
-⚙️ Tech Stack: HTML, CSS, Javascript,  Firebase 
+⚙️ **Tech Stack:** React, React Router, Tailwind, Node.js.
+
+### 🎙 [VoiceRise News AI](https://voicerise-news-ai.vercel.app/)
+💡 Automated news card generator that fetches content via API and generates shareable visuals based on news type detection.
+
+⚙️ **Tech Stack:** JavaScript, Tailwind, REST APIs.
 
 ---
 
 ## ⚡ Tech Stack
 
-### Frontend
+### Frontend & Design
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma"/>
 </p>
 
-### Backend / Database
+### Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,python" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,firebase,python" />
 </p>
 
-### Tools
+### Tools & DevOps
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,cloudflare,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare,postman"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-
-
-<br>
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-mizanur&theme=radical"/>
-
-<br>
-
-
+</p>
 
 ---
 
-# 📈 GitHub Activity
+# 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-mizanur&theme=react-dark"/>
@@ -120,16 +110,10 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
-
-
 </div>
-
 
 ---
 
-
-
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
-</p>   
+</p>
