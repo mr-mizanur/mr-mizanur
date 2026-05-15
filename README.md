@@ -40,6 +40,11 @@
 
 ⚙️ **Tech Stack:** React, Tailwind CSS, MongoDB, Express, Node.js, Firebase.
 
+### 🚀 [OxiomSEO](https://oxiomseo.vercel.app/)
+💡 A high-performance SEO analytics and digital marketing solution designed for data-driven growth. Features include real-time site audits, keyword tracking, and a sleek, user-centric dashboard for seamless optimization.
+
+⚙️ **Tech Stack:** React, Tailwind CSS, MongoDB, Next.js.
+
 ### 📰 [Khoborti](https://khoborti.vercel.app/)
 💡 A dynamic, automated news platform designed for real-time updates. It features an intelligent system that automatically fetches and categorizes news content, delivering a seamless and futuristic reading experience.
 
