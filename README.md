@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=mr-mizanur&style=for-the-badge&color=blue"/>
 </p>
 
-  📧 <a href="mailto:mizanur.codes@gmail.com"><strong>mizanur.codes@gmail.com</strong></a>
+  <a href="mailto:mizanur.codes@gmail.com"><strong>mizanur.codes@gmail.com</strong></a>
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 💻 I am a **Frontend Architect and Web Developer** passionate about building modern, scalable, and high-performance web applications.
 
@@ -33,41 +33,32 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🐱 [Pet Adoption](https://pet-adoption-theta-ten.vercel.app/)
+###  [Pet Adoption](https://pet-adoption-theta-ten.vercel.app/)
 💡 A compassionate platform dedicated to connecting rescue animals with their forever homes. Users can register and log in to explore adoptable pets, submit adoption requests, and manage pet listings. Owners have a streamlined dashboard to view and accept adoption requests, fostering a secure and efficient connection between pets and new families.
 
 ⚙️ **Tech Stack:** Next.js, Tailwind CSS, Express, MongoDB, Better Auth.
 
-### 🎓 [SkillSphere](https://skill-sphere-learn.vercel.app/)
+###  [SkillSphere](https://skill-sphere-learn.vercel.app/)
 💡 A modern online learning platform designed for a seamless educational experience. Features include interactive course listings, secure authentication, and a clean, student-focused dashboard.
 
 ⚙️ **Tech Stack:** React, Tailwind CSS, MongoDB, Better Auth.
 
-### 🚀 [OxiomSEO](https://oxiomseo.vercel.app/)
+### [OxiomSEO](https://oxiomseo.vercel.app/)
 💡 A high-performance SEO analytics and digital marketing solution designed for data-driven growth. Features include real-time site audits, keyword tracking, and a sleek, user-centric dashboard for seamless optimization.
 
 ⚙️ **Tech Stack:** React, Tailwind CSS,  Next.js.
 
-### 📰 [Khoborti](https://khoborti.vercel.app/)
-💡 A dynamic, automated news platform designed for real-time updates. It features an intelligent system that automatically fetches and categorizes news content, delivering a seamless and futuristic reading experience.
 
-⚙️ **Tech Stack:** Next.js, Tailwind CSS.
-
-### 🐉 [Dragon News](https://dragon-news-tau-five.vercel.app/category/01)
-💡 A professional news portal featuring dynamic routing, category-based filtering, and real-time data fetching for a fast-paced media experience.
-
-⚙️ **Tech Stack:** React, React Router, Tailwind, .
-
-### 🎙 [VoiceRise News AI](https://voicerise-news-ai.vercel.app/)
+###  [VoiceRise News AI](https://voicerise-news-ai.vercel.app/)
 💡 Automated news card generator that fetches content via API and generates shareable visuals based on news type detection.
 
 ⚙️ **Tech Stack:** JavaScript, Tailwind.
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 ### Frontend & Design
 <p align="center">
@@ -81,12 +72,12 @@
 
 ### Tools & DevOps
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-mizanur&theme=radical"/>
@@ -94,13 +85,13 @@
 
 ---
 
-# 📈 Activity Graph
+# Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-mizanur&theme=react-dark"/>
 </p>
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
