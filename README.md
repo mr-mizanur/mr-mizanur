@@ -35,7 +35,7 @@ I transform complex requirements into **clean, maintainable, and high-performanc
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python"/></p>
 
 **DevOps & Tools**
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare"/></p>
 
 ---
 
