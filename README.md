@@ -1,120 +1,70 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=220&section=header&text=Mizanur%20Rahman&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Mizanur%20Rahman&fontSize=45&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mizanur Rahman</h1>
+<h2 align="center">Frontend Architect | MERN Stack Specialist</h2>
 
-<h3 align="center">Frontend Architect | MERN Stack Developer | Building Scalable Web Solutions</h3>
-
-<div align="center">
-  
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mr-mizanur&style=for-the-badge&color=blue"/>
+  <em>Building high-performance, scalable web solutions with a focus on seamless user experiences.</em>
 </p>
 
-  <a href="mailto:mizanur.codes@gmail.com"><strong>mizanur.codes@gmail.com</strong></a>
-</div>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Modern+Web+Applications;Clean+UI+%7C+Scalable+Architecture;Always+Learning+New+Technologies"/>
+  <a href="mailto:mizanur.codes@gmail.com"><strong> mizanur.codes@gmail.com</strong></a> | 
+  <a href="https://www.linkedin.com/in/mizdev/"><strong>LinkedIn</strong></a> | 
+  <a href="https://wa.me/8801820100221"><strong> WhatsApp</strong></a>
 </p>
 
 ---
 
-##  About Me
+## 🚀 About Me
+I transform complex requirements into **clean, maintainable, and high-performance** web architectures. With a deep expertise in the **MERN stack and Next.js**, I don't just write code—I build digital products that drive growth and engagement.
 
-💻 I am a **Frontend Architect and Web Developer** passionate about building modern, scalable, and high-performance web applications.
-
-- ⚛️ Specialized in **React, Next.js & the MERN Stack**  
-- 🚀 Focused on **clean code, performance optimization & scalable UI**  
-- 📚 Currently exploring **Advanced Backend Patterns & AI Integration**  
-- 🧠 Building **full-stack solutions with seamless UX**  
-- 🤝 Open to **collaboration on real-world impact projects**
+*   **Architecting** modular frontend systems using React/Next.js.
+*   **Optimizing** performance for core web vitals and SEO efficiency.
+*   **Integrating** advanced backend patterns, AI services, and robust authentication flows.
+*   **Advocating** for clean code, type safety, and automated workflows.
 
 ---
 
-##  Featured Projects
+## 🛠 Tech Stack
 
-###  [Pet Adoption](https://pet-adoption-theta-ten.vercel.app/)
-💡 A compassionate platform dedicated to connecting rescue animals with their forever homes. Users can register and log in to explore adoptable pets, submit adoption requests, and manage pet listings. Owners have a streamlined dashboard to view and accept adoption requests, fostering a secure and efficient connection between pets and new families.
+**Frontend & UI/UX**
+<p align="center"><img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css,figma"/></p>
 
-⚙️ **Tech Stack:** Next.js, Tailwind CSS, Express, MongoDB, Better Auth.
+**Backend & Database**
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python"/></p>
 
-###  [SkillSphere](https://skill-sphere-learn.vercel.app/)
-💡 A modern online learning platform designed for a seamless educational experience. Features include interactive course listings, secure authentication, and a clean, student-focused dashboard.
-
-⚙️ **Tech Stack:** React, Tailwind CSS, MongoDB, Better Auth.
-
-### [OxiomSEO](https://oxiomseo.vercel.app/)
-💡 A high-performance SEO analytics and digital marketing solution designed for data-driven growth. Features include real-time site audits, keyword tracking, and a sleek, user-centric dashboard for seamless optimization.
-
-⚙️ **Tech Stack:** React, Tailwind CSS,  Next.js.
-
-
-###  [VoiceRise News AI](https://voicerise-news-ai.vercel.app/)
-💡 Automated news card generator that fetches content via API and generates shareable visuals based on news type detection.
-
-⚙️ **Tech Stack:** JavaScript, Tailwind.
+**DevOps & Tools**
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare"/></p>
 
 ---
 
-##  Tech Stack
+## 💼 Featured Work
 
-### Frontend & Design
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma"/>
-</p>
+*   **[Pet Adoption](https://pet-adoption-theta-ten.vercel.app/)** | *Next.js, Tailwind, MongoDB, Better Auth, Express*
+    *   Designed a high-conversion marketplace connecting rescues with adopters featuring real-time state management and secure role-based access.
+*   **[OxiomSEO](https://oxiomseo.vercel.app/)** | *Next.js, React, Tailwind*
+    *   Developed a high-performance SEO dashboard processing site audits and keyword metrics for data-driven digital marketing insights.
+*   **[SkillSphere](https://skill-sphere-learn.vercel.app/)** | *React, MongoDB, Better Auth*
+    *   Built a scalable LMS platform with interactive course modules and student-centric progress tracking.
+*   **[VoiceRise News AI](https://voicerise-news-ai.vercel.app/)** | *JS, Tailwind, AI APIs*
+    *   Engineered an automated content pipeline that detects news topics and generates dynamic, shareable social media visuals.
 
-### Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,firebase,python" />
-</p>
+---
 
-### Tools & DevOps
+## 📈 GitHub Insights
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-mizanur&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-mizanur&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-## GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-mizanur&theme=radical"/>
+  <strong>Currently open for new opportunities and collaborations.</strong><br>
+  <em>Let’s build something extraordinary together.</em>
 </p>
 
----
-
-# Activity Graph
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-mizanur&theme=react-dark"/>
-</p>
-
-##  Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mizdev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.facebook.com/mr.mizanur.info" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://www.instagram.com/mr.mizanur_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:mizanur.codes@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://wa.me/8801820100221" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-
-</div>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=100&section=footer"/>
 </p>
