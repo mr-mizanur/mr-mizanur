@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mizanur.codes@gmail.com"><strong> mizanur.codes@gmail.com</strong></a> | 
-  <a href="https://www.linkedin.com/in/mizdev/"><strong>LinkedIn</strong></a> | 
-  <a href="https://wa.me/8801820100221"><strong> WhatsApp</strong></a>
+  <a href="mailto:mizanur.codes@gmail.com"><strong><img src="https://icons.getbootstrap.com/assets/icons/envelope-fill.svg" width="16" style="filter: invert(1);"/> mizanur.codes@gmail.com</strong></a> | 
+  <a href="https://www.linkedin.com/in/mizdev/"><strong><img src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" width="16" style="filter: invert(1);"/> LinkedIn</strong></a> | 
+  <a href="https://wa.me/8801820100221"><strong><img src="https://icons.getbootstrap.com/assets/icons/whatsapp.svg" width="16" style="filter: invert(1);"/> WhatsApp</strong></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## <img src="https://icons.getbootstrap.com/assets/icons/rocket-takeoff-fill.svg" width="25" height="25" style="filter: invert(1);"/> About Me
 I transform complex requirements into **clean, maintainable, and high-performance** web architectures. With a deep expertise in the **MERN stack and Next.js**, I don't just write code—I build digital products that drive growth and engagement.
 
 *   **Architecting** modular frontend systems using React/Next.js.
@@ -26,10 +26,10 @@ I transform complex requirements into **clean, maintainable, and high-performanc
 
 ---
 
-## 🛠 Tech Stack
+## <img src="https://icons.getbootstrap.com/assets/icons/tools.svg" width="25" height="25" style="filter: invert(1);"/> Tech Stack
 
 **Frontend & UI/UX**
-<p align="center"><img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css,figma"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,bootstrap,html,css,figma"/></p>
 
 **Backend & Database**
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python"/></p>
@@ -39,7 +39,7 @@ I transform complex requirements into **clean, maintainable, and high-performanc
 
 ---
 
-## 💼 Featured Work
+## <img src="https://icons.getbootstrap.com/assets/icons/briefcase-fill.svg" width="25" height="25" style="filter: invert(1);"/> Featured Work
 
 *   **[Pet Adoption](https://pet-adoption-theta-ten.vercel.app/)** | *Next.js, Tailwind, MongoDB, Better Auth, Express*
     *   Designed a high-conversion marketplace connecting rescues with adopters featuring real-time state management and secure role-based access.
@@ -52,7 +52,7 @@ I transform complex requirements into **clean, maintainable, and high-performanc
 
 ---
 
-## 📈 GitHub Insights
+## <img src="https://icons.getbootstrap.com/assets/icons/graph-up-arrow.svg" width="25" height="25" style="filter: invert(1);"/> GitHub Insights
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-mizanur&theme=radical&hide_border=true"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-mizanur&theme=react-dark&hide_border=true"/>
@@ -61,7 +61,7 @@ I transform complex requirements into **clean, maintainable, and high-performanc
 ---
 
 <p align="center">
-  <strong>Currently open for new opportunities and collaborations.</strong><br>
+  <strong><img src="https://icons.getbootstrap.com/assets/icons/person-check-fill.svg" width="16" style="filter: invert(1);"/> Currently open for new opportunities and collaborations.</strong><br>
   <em>Let’s build something extraordinary together.</em>
 </p>
 
