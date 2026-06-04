@@ -168,14 +168,7 @@ Automated content pipeline that detects trending news topics and generates dynam
 
 ## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/graph-up-arrow.svg" width="24" height="24"/> GitHub Insights
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-mizanur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mizanur&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-</div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mr-mizanur&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6EC4&ring=7873F5&currStreakLabel=7873F5"/>
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-mizanur&theme=tokyonight"/>
