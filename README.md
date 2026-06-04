@@ -174,7 +174,7 @@ Automated content pipeline that detects trending news topics and generates dynam
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mr-mizanur&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6EC4&ring=7873F5&currStreakLabel=7873F5"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mr-mizanur&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6EC4&ring=7873F5&currStreakLabel=7873F5"/>
 </div>
 
 <div align="center">
