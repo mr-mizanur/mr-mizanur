@@ -16,6 +16,9 @@
   <a href="https://wa.me/8801820100221">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  <a href="https://mizanurdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7873f5?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=mr-mizanur&label=Profile%20Views&color=7873f5&style=for-the-badge"/>
 </p>
 
@@ -210,6 +213,10 @@ Automated content pipeline that detects trending news topics and generates dynam
   &nbsp;
   <a href="https://wa.me/8801820100221">
     <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://mizanurdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7873f5?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
 </div>
