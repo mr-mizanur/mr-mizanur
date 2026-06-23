@@ -116,30 +116,6 @@ A high-performance pet adoption platform frontend built with React, Next.js, and
 
 </td>
 <td width="50%" valign="top">
-<h3><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/bar-chart-fill.svg" width="18" height="18"/> OxiomSEO Dashboard</h3>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://oxiomseo.vercel.app/)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-
-Oxiom SEO is a premium landing page for high-end digital agencies.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/collection-play-fill.svg" width="18" height="18"/> FLiveTV</h3>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=cloudflare&logoColor=white)](https://flivetv.pages.dev/)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F6821F?style=flat-square&logo=cloudflare&logoColor=white)
-
-A live TV streaming platform delivering real-time broadcast content with a clean, responsive interface built for seamless viewing experiences.
-
-</td>
-<td width="50%" valign="top">
 <h3><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/mortarboard-fill.svg" width="18" height="18"/> SkillSphere </h3>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://skill-sphere-learn.vercel.app/)
@@ -152,14 +128,14 @@ Comprehensive online learning platform featuring dynamic course modules, user au
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/robot.svg" width="18" height="18"/> VoiceRise News AI</h3>
+<h3><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/droplet-fill.svg" width="18" height="18"/> Rokto Seva</h3>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://voicerise-news-ai.vercel.app/)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://rokto-seva.vercel.app/)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![AI](https://img.shields.io/badge/AI_APIs-7873f5?style=flat-square&logoColor=white)
 
-Automated content pipeline that detects trending news topics and generates dynamic, shareable social media visuals using AI APIs.
+A blood donation platform connecting donors with recipients, making life-saving blood requests fast and accessible.
 
 </td>
 </tr>
