@@ -19,7 +19,11 @@
   <a href="https://mizanurdev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-7873f5?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-mizanur&label=Profile%20Views&color=7873f5&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/mr-mizanur?label=Followers&style=for-the-badge&color=7873f5"/>
 </p>
 
 <p align="center">
@@ -27,7 +31,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/1.7%2B%20Years%20Experience-ff6ec4?style=flat-square&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/20%2B%20Projects%20Built-06B6D4?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/51%2B%20Projects%20Built-06B6D4?style=flat-square&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To%20Work-22C55E?style=flat-square&logoColor=white"/>
 </p>
@@ -42,17 +46,18 @@
 
 ```typescript
 const mizanur = {
-  role     : "Frontend Architect | MERN Stack Specialist",
-  location : "Bangladesh",
-  focus    : ["React", "Next.js", "Node.js", "MongoDB"],
-  strengths: [
+  role       : "Frontend Architect | MERN Stack Specialist",
+  location   : "Bangladesh",
+  experience : "1.7+ years",
+  focus      : ["React", "Next.js", "Node.js", "MongoDB", "TypeScript"],
+  strengths  : [
     "Architecting modular & scalable frontend systems",
     "Optimizing Core Web Vitals & SEO performance",
     "Integrating AI services & robust auth flows",
     "Clean code, type safety & automated workflows",
   ],
-  learning : "Advanced TypeScript & System Design",
-  openTo   : "Freelance  •  Full-time  •  Collaboration",
+  currentlyLearning : "Advanced TypeScript & System Design",
+  openTo            : ["Freelance", "Full-time", "Collaboration"],
 };
 ```
 
@@ -62,92 +67,70 @@ const mizanur = {
 
 <table align="center">
 <tr>
-<td align="center" width="120">
-<b>01 · Core</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=1"/>
-</td>
-<td align="center" width="280">
-<b>02 · Frontend</b><br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,reactrouter&theme=dark&perline=5"/>
-<br>
-<img src="https://img.shields.io/badge/Hero_UI-7C3AED?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/DaisyUI-FF69B4?style=flat-square&logo=daisyui&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Toast-F59E0B?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web3Forms-22C55E?style=flat-square&logoColor=white"/>
-</td>
-<td align="center" width="220">
-<b>03 · Backend & DB</b><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&perline=4"/>
-<br>
-<img src="https://img.shields.io/badge/Better_Auth-06B6D4?style=flat-square&logo=shield&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logoColor=white"/>
-</td>
+<td align="center"><b>Core</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=4"/></td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-<b>04 · DevOps & Deployment</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,cloudflare&theme=dark&perline=10"/>
-</td>
-<td align="center">
-<b>05 · Design & Analytics</b><br><br>
-<img src="https://skillicons.dev/icons?i=figma,python&theme=dark&perline=4"/>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma&theme=dark&perline=5"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend & DB</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&perline=4"/></td>
+</tr>
+<tr>
+<td align="center"><b>DevOps & Tools</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,cloudflare,vscode&theme=dark&perline=6"/></td>
+</tr>
+</table>
+
 <br>
-<img src="https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pixo-A855F7?style=flat-square&logoColor=white"/>
+
+## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/briefcase-fill.svg" width="24" height="24"/> What I Do
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/layout-text-window-reverse.svg" width="30"/><br/>
+  <b>Frontend Architecture</b><br/>
+  <sub>React & Next.js apps built for scale</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/diagram-3-fill.svg" width="30"/><br/>
+  <b>Full-Stack (MERN)</b><br/>
+  <sub>End-to-end product development</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/speedometer2.svg" width="30"/><br/>
+  <b>Performance & SEO</b><br/>
+  <sub>Core Web Vitals, technical SEO</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/robot.svg" width="30"/><br/>
+  <b>AI Integrations</b><br/>
+  <sub>LLM-powered features & auth flows</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/briefcase-fill.svg" width="24" height="24"/> Featured Projects
+## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/lightning-charge-fill.svg" width="24" height="24"/> Currently Building
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/heart-fill.svg" width="18" height="18"/> Pet Adoption Platform</h3>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://pet-adoption-theta-ten.vercel.app/)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-
-A high-performance pet adoption platform frontend built with React, Next.js, and Tailwind CSS.And A fully secured Express & MongoDB REST API protected with global JWT auth middleware
-
-</td>
-<td width="50%" valign="top">
-<h3><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/mortarboard-fill.svg" width="18" height="18"/> SkillSphere </h3>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://skill-sphere-learn.vercel.app/)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-Comprehensive online learning platform featuring dynamic course modules, user authentication, and a fully responsive UI.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<h3><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/droplet-fill.svg" width="18" height="18"/> Rokto Seva</h3>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://rokto-seva.vercel.app/)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-
-A blood donation platform connecting donors with recipients, making life-saving blood requests fast and accessible.
-
-</td>
-</tr>
-</table>
-
-<br>
+- Sharpening system design fundamentals for scalable full-stack architecture
+- Deep-diving into advanced TypeScript patterns
+- Open to freelance projects and long-term collaboration
+- Ask me about React, Next.js, MongoDB, or performance optimization
 
 <br>
 
 ## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/graph-up-arrow.svg" width="24" height="24"/> GitHub Insights
 
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mr-mizanur&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-mizanur&theme=tokyonight"/>
