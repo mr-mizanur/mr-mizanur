@@ -24,7 +24,7 @@
 
 ## About
 
-I have about two years of experience building for the web. I started with HTML and CSS, moved into JavaScript and React, and now work across the whole stack: UI, APIs, authentication, payments and deployment.
+Full-Stack Web Developer with ~2 years of experience. Crafting end-to-end web apps from sleek frontend interfaces (React/Next.js) to secure backends, authentication, payments, and deployment. Obsessed with clean code and high-performance digital experiences.
 
 At the moment I work full time at Career Compass, where I maintain and extend the company's internal projects and public web platforms.
 
